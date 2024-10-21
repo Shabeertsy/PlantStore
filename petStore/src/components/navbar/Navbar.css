@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+
+
+.navbar-main{
+display: flex;
+justify-content: center;
+font-family: "Agdasima", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.navbar-container{
+width: 90%;
+padding: 10px;
+}
+
+.navbar{
+    padding: 20px;
+    background-color: white;
+}
+
+.nav-links-container{
+    margin-left: 66%;
+}
+
+.nav-logo{
+    width: 100px;
+    height: 100px;
+}
+
+.login-btn{
+    background-color: rgb(255, 170, 0);
+    color: black;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+}

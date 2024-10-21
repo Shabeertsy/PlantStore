@@ -1,0 +1,39 @@
+.home-main{
+    width: 100vw;
+    height: 100vh;
+
+}
+.home-container{
+    width: 100%; 
+    max-width: 1650px; /* Custom max width (adjust this value to your needs) */
+    margin: 0 auto; 
+    padding: 0 15px; 
+    height: 100vh;
+}
+
+
+.hero-text{
+    margin-left: 10%;
+}
+
+.hero-h1{
+    margin-top: 200px
+    
+}
+.hero-h2{
+
+}
+
+.hero-dis{
+
+}
+
+.my-slider{
+    height: 20%;
+}
+
+.slider-container {
+    /* width: 10%; */
+    height: 10px;
+ 
+    }
