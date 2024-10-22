@@ -1,7 +1,6 @@
 import React from 'react'
 import { instance } from '../../Axios'
 import './Home.css'
-import MyCarousel from './Carousal'
 import Navbar from '../navbar/Navbar'
 
 export default function Home() {
