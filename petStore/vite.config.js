@@ -3,11 +3,11 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  plugins: [react()],
+  base:"/petStore",
   build: {
     outDir: 'dist'
   },
-  plugins: [react()],
-  base:"/PlantStore"
 })
 
 
